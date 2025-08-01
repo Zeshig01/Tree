@@ -6,7 +6,7 @@ import React from 'react';
 
 const Section = () => {
   return (
-    <div className='bg-[#DDDAD2]'>
+    <div className='bg-[#DDDAD2] mb-20'>
 
     <section className="max-w-7xl  mx-auto px-4 py-6 grid md:grid-cols-2 gap-8 items-center">
       {/* Left Image Block */}
